@@ -1,0 +1,413 @@
+THello
+v7
+r0
+t285646314.099636
+cCheck dependencies
+cProcessInfoPlistFile /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app/Info.plist Hello-Info.plist
+cCompileXIB /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/MainWindow.xib
+cProcessPCH /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/Hello_Prefix-ciuxhatcwkcgoqcxoyeehrkmzeko/Hello_Prefix.pch.gch Hello_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/main.o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/HelloAppDelegate.o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/Classes/HelloAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/Controller.o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/Controller.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app/Hello normal i386
+cGenerateDSYMFile /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app.dSYM /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app/Hello
+cTouch /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B527A3100000000000000EE
+t1263696433
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/jblackburn/Documents/dev/iphone/hello/Hello/Classes/HelloAppDelegate.h
+c000000004B527CBB000000000000013F
+t1263697083
+s319
+i<UIKit/UIKit.h>
+
+N/Users/jblackburn/Documents/dev/iphone/hello/Hello/Classes/HelloAppDelegate.m
+c000000004B527CBB00000000000001D7
+t1263697083
+s471
+i"HelloAppDelegate.h"
+
+N/Users/jblackburn/Documents/dev/iphone/hello/Hello/Controller.h
+c000000004B53CC220000000000000148
+t1263782946
+s328
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/jblackburn/Documents/dev/iphone/hello/Hello/Controller.m
+c000000004B565DD9000000000000013F
+t1263951321
+s319
+i"Controller.h"
+
+N/Users/jblackburn/Documents/dev/iphone/hello/Hello/Hello_Prefix.pch
+c000000004B527CBB00000000000000B3
+t1263697083
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jblackburn/Documents/dev/iphone/hello/Hello/MainWindow.xib
+c000000004B565C2700000000000057AC
+t1263950887
+s22444
+
+N/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app
+t1263951226
+s204
+
+N/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app.dSYM
+t1263951226
+s102
+
+N/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app/Hello
+t1263951226
+s18964
+
+N/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app/Info.plist
+t1263697407
+s556
+
+N/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app/MainWindow.nib
+t1263950913
+s2432
+
+N/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app/PkgInfo
+t1263697407
+s8
+
+N/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/Controller.o
+t1263951226
+s11016
+
+N/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/Hello.LinkFileList
+c000000004B53A8650000000000000198
+t1263773797
+s408
+
+N/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/HelloAppDelegate.o
+t1263697408
+s17172
+
+N/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/main.o
+t1263770738
+s5980
+
+N/Users/jblackburn/Documents/dev/iphone/hello/Hello/main.m
+c000000004B527CBB0000000000000165
+t1263697083
+s357
+i<UIKit/UIKit.h>
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/Classes/HelloAppDelegate.h
+c000000004B527CBB000000000000013F
+t1263697083
+s319
+i<UIKit/UIKit.h>
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/Classes/HelloAppDelegate.m
+c000000004B527CBB00000000000001D7
+t1263697083
+s471
+i"HelloAppDelegate.h"
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/Controller.h
+c000000004B53CC220000000000000148
+t1263782946
+s328
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/Controller.m
+c000000004B56667C0000000000000125
+t1263953532
+s293
+i"Controller.h"
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/Hello_Prefix.pch
+c000000004B527CBB00000000000000B3
+t1263697083
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/MainWindow.xib
+c000000004B565C2700000000000057AC
+t1263950887
+s22444
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app
+t1263953514
+s204
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app.dSYM
+t1263953514
+s102
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app/Hello
+t1263953514
+s18992
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app/Info.plist
+t1263697407
+s556
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app/MainWindow.nib
+t1263950913
+s2432
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app/PkgInfo
+t1263697407
+s8
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/Controller.o
+t1263953514
+s10932
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/Hello.LinkFileList
+c000000004B56666900000000000001A7
+t1263953513
+s423
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/HelloAppDelegate.o
+t1263953513
+s17184
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/main.o
+t1263953513
+s5992
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/main.m
+c000000004B527CBB0000000000000165
+t1263697083
+s357
+i<UIKit/UIKit.h>
+
+N/var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/Hello_Prefix-ciuxhatcwkcgoqcxoyeehrkmzeko/Hello_Prefix.pch.gch
+t1263953513
+s13034960
+
+N/var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/Hello_Prefix-gmfqaaydxaupcvhkvmegsihqtqcd/Hello_Prefix.pch.gch
+t1263697408
+s13034960
+
+NHello-Info.plist
+c000000004B527CBB000000000000038D
+t1263697083
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies285646313#285646313#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/Controller.o /Users/jblackburn/Documents/dev/iphone/hello/Hello/Controller.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s285644026.163957
+e285644026.257720
+r1
+xCompileC
+xbuild/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/Controller.o
+x/Users/jblackburn/Documents/dev/iphone/hello/Hello/Controller.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jblackburn/Documents/dev/iphone/hello/Hello/Controller.m: In function '-[Controller sliderValueChanged:]':
+o/Users/jblackburn/Documents/dev/iphone/hello/Hello/Controller.m:13: warning: unused variable 'value'
+lSLF07#2@71"Compile /Users/jblackburn/Documents/dev/iphone/hello/Hello/Controller.m285644026#285644026#0(215"/Users/jblackburn/Documents/dev/iphone/hello/Hello/Controller.m: In function '-[Controller sliderValueChanged:]':/Users/jblackburn/Documents/dev/iphone/hello/Hello/Controller.m:13: warning: unused variable 'value'1(22@23"Unused variable 'value'285644026#114#101#0(6@63"/Users/jblackburn/Documents/dev/iphone/hello/Hello/Controller.m285644022#13#0#13#0#19"unused variable '*'0(0#0#63"/Users/jblackburn/Documents/dev/iphone/hello/Hello/Controller.m4300885448#1969"    cd /Users/jblackburn/Documents/dev/iphone/hello/Hello    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-generated-files.hmap -I/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-own-target-headers.hmap -I/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-all-target-headers.hmap -iquote /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-project-headers.hmap -F/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator -I/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/include -I/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/DerivedSources/i386 -I/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/DerivedSources -include /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/Hello_Prefix-gmfqaaydxaupcvhkvmegsihqtqcd/Hello_Prefix.pch -c /Users/jblackburn/Documents/dev/iphone/hello/Hello/Controller.m -o /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/Controller.o0#
+
+CCompileC build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/Controller.o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/Controller.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s285646313.980978
+e285646314.073923
+r1
+xCompileC
+xbuild/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/Controller.o
+x/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/Controller.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/Controller.m285646313#285646314#0(0"0(0#0#68"/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/Controller.m4300885448#2024"    cd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-generated-files.hmap -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-own-target-headers.hmap -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-all-target-headers.hmap -iquote /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-project-headers.hmap -F/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/include -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/DerivedSources/i386 -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/DerivedSources -include /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/Hello_Prefix-ciuxhatcwkcgoqcxoyeehrkmzeko/Hello_Prefix.pch -c /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/Controller.m -o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/Controller.o0#
+
+CCompileC build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/HelloAppDelegate.o /Users/jblackburn/Documents/dev/iphone/hello/Hello/Classes/HelloAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s285390208.725586
+e285390208.871390
+r1
+xCompileC
+xbuild/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/HelloAppDelegate.o
+x/Users/jblackburn/Documents/dev/iphone/hello/Hello/Classes/HelloAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/jblackburn/Documents/dev/iphone/hello/Hello/Classes/HelloAppDelegate.m285390208#285390208#0(0"0(0#0#77"/Users/jblackburn/Documents/dev/iphone/hello/Hello/Classes/HelloAppDelegate.m4300885448#1989"    cd /Users/jblackburn/Documents/dev/iphone/hello/Hello    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-generated-files.hmap -I/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-own-target-headers.hmap -I/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-all-target-headers.hmap -iquote /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-project-headers.hmap -F/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator -I/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/include -I/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/DerivedSources/i386 -I/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/DerivedSources -include /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/Hello_Prefix-gmfqaaydxaupcvhkvmegsihqtqcd/Hello_Prefix.pch -c /Users/jblackburn/Documents/dev/iphone/hello/Hello/Classes/HelloAppDelegate.m -o /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/HelloAppDelegate.o0#
+
+CCompileC build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/HelloAppDelegate.o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/Classes/HelloAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s285646313.937893
+e285646314.030623
+r1
+xCompileC
+xbuild/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/HelloAppDelegate.o
+x/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/Classes/HelloAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/Classes/HelloAppDelegate.m285646313#285646314#0(0"0(0#0#82"/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/Classes/HelloAppDelegate.m4300885448#2044"    cd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-generated-files.hmap -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-own-target-headers.hmap -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-all-target-headers.hmap -iquote /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-project-headers.hmap -F/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/include -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/DerivedSources/i386 -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/DerivedSources -include /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/Hello_Prefix-ciuxhatcwkcgoqcxoyeehrkmzeko/Hello_Prefix.pch -c /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/Classes/HelloAppDelegate.m -o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/HelloAppDelegate.o0#
+
+CCompileC build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/main.o /Users/jblackburn/Documents/dev/iphone/hello/Hello/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s285463537.501807
+e285463538.404810
+r1
+xCompileC
+xbuild/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/main.o
+x/Users/jblackburn/Documents/dev/iphone/hello/Hello/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/jblackburn/Documents/dev/iphone/hello/Hello/main.m285463537#285463538#0(0"0(0#0#57"/Users/jblackburn/Documents/dev/iphone/hello/Hello/main.m7083932847239164928#1957"    cd /Users/jblackburn/Documents/dev/iphone/hello/Hello    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-generated-files.hmap -I/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-own-target-headers.hmap -I/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-all-target-headers.hmap -iquote /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-project-headers.hmap -F/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator -I/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/include -I/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/DerivedSources/i386 -I/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/DerivedSources -include /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/Hello_Prefix-gmfqaaydxaupcvhkvmegsihqtqcd/Hello_Prefix.pch -c /Users/jblackburn/Documents/dev/iphone/hello/Hello/main.m -o /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/main.o0#
+
+CCompileC build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/main.o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s285646313.936858
+e285646313.980891
+r1
+xCompileC
+xbuild/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/main.o
+x/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/main.m285646313#285646313#0(0"0(0#0#62"/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/main.m4300885448#2012"    cd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-generated-files.hmap -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-own-target-headers.hmap -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-all-target-headers.hmap -iquote /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-project-headers.hmap -F/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/include -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/DerivedSources/i386 -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/DerivedSources -include /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/Hello_Prefix-ciuxhatcwkcgoqcxoyeehrkmzeko/Hello_Prefix.pch -c /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/main.m -o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jblackburn/Documents/dev/iphone/hello/Hello/MainWindow.xib
+s285643713.315574
+e285643713.614070
+r1
+xCompileXIB
+x/Users/jblackburn/Documents/dev/iphone/hello/Hello/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib285643713#285643713#0(0"0(0#0#65"/Users/jblackburn/Documents/dev/iphone/hello/Hello/MainWindow.xib4300885448#516"    cd /Users/jblackburn/Documents/dev/iphone/hello/Hello    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app/MainWindow.nib /Users/jblackburn/Documents/dev/iphone/hello/Hello/MainWindow.xib0#
+
+CCompileXIB /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/MainWindow.xib
+r0
+
+CGenerateDSYMFile /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app.dSYM /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app/Hello
+s285644026.273415
+e285644026.282860
+r1
+xGenerateDSYMFile
+x/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app.dSYM
+x/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app/Hello
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/Hello.app.dSYM build/Debug-iphonesimulator/Hello.app/Hello285644026#285644026#0(0"0(0#0#94"/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app/Hello4300885448#413"    cd /Users/jblackburn/Documents/dev/iphone/hello/Hello    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app/Hello -o /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app.dSYM0#
+
+CGenerateDSYMFile /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app.dSYM /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app/Hello
+s285646314.088711
+e285646314.097593
+r1
+xGenerateDSYMFile
+x/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app.dSYM
+x/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app/Hello
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/Hello.app.dSYM build/Debug-iphonesimulator/Hello.app/Hello285646314#285646314#0(0"0(0#0#99"/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app/Hello4300885448#428"    cd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app/Hello -o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app.dSYM0#
+
+CLd /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app/Hello normal i386
+s285644026.257801
+e285644026.273326
+r1
+xLd
+x/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app/Hello
+xnormal
+xi386
+lSLF07#2@99"Link /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app/Hello285644026#285644026#0(0"0(0#0#0"4300885448#914"    cd /Users/jblackburn/Documents/dev/iphone/hello/Hello    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator -F/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator -filelist /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/Hello.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app/Hello0#
+
+CLd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app/Hello normal i386
+s285646314.074002
+e285646314.088618
+r1
+xLd
+x/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app/Hello
+xnormal
+xi386
+lSLF07#2@104"Link /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app/Hello285646314#285646314#0(0"0(0#0#0"4300885448#939"    cd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator -F/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator -filelist /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/Objects-normal/i386/Hello.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app/Hello0#
+
+CProcessInfoPlistFile /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app/Info.plist Hello-Info.plist
+s285390207.510924
+e285390207.546112
+r1
+xProcessInfoPlistFile
+x/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app/Info.plist
+xHello-Info.plist
+lSLF07#2@24"Process Hello-Info.plist285390207#285390207#0(0"0(0#0#67"/Users/jblackburn/Documents/dev/iphone/hello/Hello/Hello-Info.plist30399761347838024#509"    cd /Users/jblackburn/Documents/dev/iphone/hello/Hello    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Hello-Info.plist -genpkginfo /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app/Info.plist Hello-Info.plist
+r0
+
+CProcessPCH /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/Hello_Prefix-ciuxhatcwkcgoqcxoyeehrkmzeko/Hello_Prefix.pch.gch Hello_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s285646313.410948
+e285646313.936730
+r1
+xProcessPCH
+x/var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/Hello_Prefix-ciuxhatcwkcgoqcxoyeehrkmzeko/Hello_Prefix.pch.gch
+xHello_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Hello_Prefix.pch285646313#285646313#0(0"0(0#0#72"/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/Hello_Prefix.pch7233173838130146304#1889"    cd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-generated-files.hmap -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-own-target-headers.hmap -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-all-target-headers.hmap -iquote /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-project-headers.hmap -F/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/include -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/DerivedSources/i386 -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Hello.build/Debug-iphonesimulator/Hello.build/DerivedSources -c /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/Hello_Prefix.pch -o /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/Hello_Prefix-ciuxhatcwkcgoqcxoyeehrkmzeko/Hello_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/Hello_Prefix-gmfqaaydxaupcvhkvmegsihqtqcd/Hello_Prefix.pch.gch Hello_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s285390207.812602
+e285390208.724631
+r1
+xProcessPCH
+x/var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/Hello_Prefix-gmfqaaydxaupcvhkvmegsihqtqcd/Hello_Prefix.pch.gch
+xHello_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Hello_Prefix.pch285390207#285390208#0(0"0(0#0#67"/Users/jblackburn/Documents/dev/iphone/hello/Hello/Hello_Prefix.pch4300885448#1839"    cd /Users/jblackburn/Documents/dev/iphone/hello/Hello    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-generated-files.hmap -I/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-own-target-headers.hmap -I/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-all-target-headers.hmap -iquote /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/Hello-project-headers.hmap -F/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator -I/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/include -I/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/DerivedSources/i386 -I/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Hello.build/Debug-iphonesimulator/Hello.build/DerivedSources -c /Users/jblackburn/Documents/dev/iphone/hello/Hello/Hello_Prefix.pch -o /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/Hello_Prefix-gmfqaaydxaupcvhkvmegsihqtqcd/Hello_Prefix.pch.gch0#
+
+CTouch /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app
+s285644026.282946
+e285644026.285017
+r1
+xTouch
+x/Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app
+lSLF07#2@94"Touch /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app285644026#285644026#0(0"0(0#0#0"4300885448#300"    cd /Users/jblackburn/Documents/dev/iphone/hello/Hello    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jblackburn/Documents/dev/iphone/hello/Hello/build/Debug-iphonesimulator/Hello.app0#
+
+CTouch /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app
+s285646314.097665
+e285646314.099602
+r1
+xTouch
+x/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app
+lSLF07#2@99"Touch /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app285646314#285646314#0(0"0(0#0#0"4300885448#310"    cd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/slider/build/Debug-iphonesimulator/Hello.app0#
+
