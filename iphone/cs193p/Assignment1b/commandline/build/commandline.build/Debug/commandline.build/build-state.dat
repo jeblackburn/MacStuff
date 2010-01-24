@@ -1,0 +1,99 @@
+Tcommandline
+v7
+r0
+t286050029.614165
+cCheck dependencies
+cProcessPCH /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/commandline_Prefix-akkotxeseryunzelmwvhugszyyih/commandline_Prefix.pch.gch commandline_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/commandline.build/Debug/commandline.build/Objects-normal/x86_64/commandline.o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/Debug/commandline normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004AB9AA2700000000000013E6
+t1253681703
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURL.h
+c000000004AB9AA2A00000000000051E6
+t1253681706
+s20966
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004AD8432D0000000000B37440
+t1255686957
+s11760704
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/Debug/commandline
+t1264357228
+s14184
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/Objects-normal/x86_64/commandline.LinkFileList
+c000000004B5B869E000000000000009E
+t1264289438
+s158
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/Objects-normal/x86_64/commandline.o
+t1264357228
+s13564
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m
+c000000004B5C8F6B0000000000000600
+t1264357227
+s1536
+i<Foundation/Foundation.h>
+i<Foundation/NSURL.h>
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline_Prefix.pch
+c000000004B5B83C100000000000000A4
+t1264288705
+s164
+i<Foundation/Foundation.h>
+
+N/var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/commandline_Prefix-akkotxeseryunzelmwvhugszyyih/commandline_Prefix.pch.gch
+t1264289440
+s41405200
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies286050029#286050029#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/commandline.build/Debug/commandline.build/Objects-normal/x86_64/commandline.o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s286050027.769133
+e286050028.134711
+r1
+xCompileC
+xbuild/commandline.build/Debug/commandline.build/Objects-normal/x86_64/commandline.o
+x/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@95"Compile /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m286050027#286050028#0(0"0(0#0#87"/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m4300885448#1935"    cd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/commandline-generated-files.hmap -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/commandline-own-target-headers.hmap -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/commandline-all-target-headers.hmap -iquote /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/commandline-project-headers.hmap -F/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/Debug -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/Debug/include -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/DerivedSources/x86_64 -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/DerivedSources -include /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/commandline_Prefix-akkotxeseryunzelmwvhugszyyih/commandline_Prefix.pch -c /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m -o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/Objects-normal/x86_64/commandline.o0#
+
+CLd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/Debug/commandline normal x86_64
+s286050028.134790
+e286050028.149077
+r1
+xLd
+x/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/Debug/commandline
+xnormal
+xx86_64
+lSLF07#2@102"Link /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/Debug/commandline286050028#286050028#0(0"0(0#0#0"4300885448#711"    cd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/Debug -F/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/Debug -filelist /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/Objects-normal/x86_64/commandline.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/Debug/commandline0#
+
+CProcessPCH /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/commandline_Prefix-akkotxeseryunzelmwvhugszyyih/commandline_Prefix.pch.gch commandline_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s285982238.855801
+e285982241.136998
+r1
+xProcessPCH
+x/var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/commandline_Prefix-akkotxeseryunzelmwvhugszyyih/commandline_Prefix.pch.gch
+xcommandline_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile commandline_Prefix.pch285982238#285982241#0(0"0(0#0#96"/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline_Prefix.pch4300885448#1788"    cd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/commandline-generated-files.hmap -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/commandline-own-target-headers.hmap -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/commandline-all-target-headers.hmap -iquote /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/commandline-project-headers.hmap -F/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/Debug -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/Debug/include -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/DerivedSources/x86_64 -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/DerivedSources -c /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline_Prefix.pch -o /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/commandline_Prefix-akkotxeseryunzelmwvhugszyyih/commandline_Prefix.pch.gch0#
+

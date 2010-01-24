@@ -1,0 +1,108 @@
+Tcommandline
+v7
+r0
+t285982241.427383
+cCheck dependencies
+cProcessPCH /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/commandline_Prefix-akkotxeseryunzelmwvhugszyyih/commandline_Prefix.pch.gch commandline_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/commandline.build/Debug/commandline.build/Objects-normal/x86_64/commandline.o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/Debug/commandline normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004AB9AA2700000000000013E6
+t1253681703
+s5094
+
+N/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004AD8432D0000000000B37440
+t1255686957
+s11760704
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/Debug/commandline
+t2
+s0
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/Objects-normal/x86_64/commandline.LinkFileList
+c000000004B5B869E000000000000009E
+t1264289438
+s158
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/Objects-normal/x86_64/commandline.o
+t1264289441
+s7808
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m
+c000000004B5B869D0000000000000192
+t1264289437
+s402
+i<Foundation/Foundation.h>
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline_Prefix.pch
+c000000004B5B83C100000000000000A4
+t1264288705
+s164
+i<Foundation/Foundation.h>
+
+N/var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/commandline_Prefix-akkotxeseryunzelmwvhugszyyih/commandline_Prefix.pch.gch
+t1264289440
+s41405200
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies285982238#285982238#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/commandline.build/Debug/commandline.build/Objects-normal/x86_64/commandline.o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s285982241.137167
+e285982241.254379
+r1
+xCompileC
+xbuild/commandline.build/Debug/commandline.build/Objects-normal/x86_64/commandline.o
+x/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m: In function 'PrintPathInfo':
+o/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m:6: warning: format not a string literal and no format arguments
+o/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m: In function 'main':
+o/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m:14: warning: implicit declaration of function 'PrintProcessInfo'
+o/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m:15: warning: implicit declaration of function 'PrintBookmarkInfo'
+o/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m:16: warning: implicit declaration of function 'PrintIntrospectionInfo'
+lSLF07#2@95"Compile /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m285982241#285982241#0(845"/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m: In function 'PrintPathInfo':/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m:6: warning: format not a string literal and no format arguments/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m: In function 'main':/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m:14: warning: implicit declaration of function 'PrintProcessInfo'/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m:15: warning: implicit declaration of function 'PrintBookmarkInfo'/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m:16: warning: implicit declaration of function 'PrintIntrospectionInfo'4(22@51"Format not a string literal and no format arguments285982241#118#152#0(6@87"/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m285982237#6#0#6#0#51"format not a string literal and no format arguments0(22@51"Implicit declaration of function 'PrintProcessInfo'285982241#379#153#0(6@87"/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m285982237#14#0#14#0#36"implicit declaration of function '*'0(22@52"Implicit declaration of function 'PrintBookmarkInfo'285982241#532#154#0(6@87"/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m285982237#15#0#15#0#36"implicit declaration of function '*'0(22@57"Implicit declaration of function 'PrintIntrospectionInfo'285982241#686#159#0(6@87"/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m285982237#16#0#16#0#36"implicit declaration of function '*'0(0#0#87"/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m4300885448#1935"    cd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/commandline-generated-files.hmap -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/commandline-own-target-headers.hmap -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/commandline-all-target-headers.hmap -iquote /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/commandline-project-headers.hmap -F/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/Debug -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/Debug/include -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/DerivedSources/x86_64 -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/DerivedSources -include /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/commandline_Prefix-akkotxeseryunzelmwvhugszyyih/commandline_Prefix.pch -c /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline.m -o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/Objects-normal/x86_64/commandline.o0#
+
+CLd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/Debug/commandline normal x86_64
+s285982241.254464
+e285982241.427343
+r0
+xLd
+x/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/Debug/commandline
+xnormal
+xx86_64
+oUndefined symbols:
+o  "_PrintProcessInfo", referenced from:
+o      _main in commandline.o
+o  "_PrintBookmarkInfo", referenced from:
+o      _main in commandline.o
+o  "_PrintIntrospectionInfo", referenced from:
+o      _main in commandline.o
+old: symbol(s) not found
+ocollect2: ld returned 1 exit status
+lSLF07#2@102"Link /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/Debug/commandline285982241#285982241#0(293"Undefined symbols:  "_PrintProcessInfo", referenced from:      _main in commandline.o  "_PrintBookmarkInfo", referenced from:      _main in commandline.o  "_PrintIntrospectionInfo", referenced from:      _main in commandline.old: symbol(s) not foundcollect2: ld returned 1 exit status8(4@37""_PrintProcessInfo", referenced from:285982241#19#40#0(6@0"285982241#0#0#0#0#0"0(13@22"_main in commandline.o285982241#59#29#0(6@0"285982241#0#0#0#0#0"0(4@38""_PrintBookmarkInfo", referenced from:285982241#88#41#0(6@0"285982241#0#0#0#0#0"0(13@22"_main in commandline.o285982241#129#29#0(6@0"285982241#0#0#0#0#0"0(4@43""_PrintIntrospectionInfo", referenced from:285982241#158#46#0(6@0"285982241#0#0#0#0#0"0(13@22"_main in commandline.o285982241#204#29#0(6@0"285982241#0#0#0#0#0"0(13@19"Symbol(s) not found285982241#233#24#0(6@0"285982241#0#0#0#0#0"0(13@35"Collect2: ld returned 1 exit status285982241#257#36#0(6@0"285982241#0#0#0#0#0"0(0#0#0"4300885448#711"    cd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/Debug -F/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/Debug -filelist /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/Objects-normal/x86_64/commandline.LinkFileList -mmacosx-version-min=10.6 -framework Foundation -o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/Debug/commandline1#
+
+CProcessPCH /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/commandline_Prefix-akkotxeseryunzelmwvhugszyyih/commandline_Prefix.pch.gch commandline_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s285982238.855801
+e285982241.136998
+r1
+xProcessPCH
+x/var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/commandline_Prefix-akkotxeseryunzelmwvhugszyyih/commandline_Prefix.pch.gch
+xcommandline_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile commandline_Prefix.pch285982238#285982241#0(0"0(0#0#96"/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline_Prefix.pch4300885448#1788"    cd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/commandline-generated-files.hmap -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/commandline-own-target-headers.hmap -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/commandline-all-target-headers.hmap -iquote /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/commandline-project-headers.hmap -F/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/Debug -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/Debug/include -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/DerivedSources/x86_64 -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/build/commandline.build/Debug/commandline.build/DerivedSources -c /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1b/commandline/commandline_Prefix.pch -o /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/commandline_Prefix-akkotxeseryunzelmwvhugszyyih/commandline_Prefix.pch.gch0#
+

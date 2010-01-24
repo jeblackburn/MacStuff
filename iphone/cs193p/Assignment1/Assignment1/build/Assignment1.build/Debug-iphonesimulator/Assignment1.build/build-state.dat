@@ -1,0 +1,275 @@
+TAssignment1
+v7
+r0
+t285979109.869398
+cCheck dependencies
+cProcessInfoPlistFile /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app/Info.plist Assignment1-Info.plist
+cCompileXIB /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/Assignment1.app/IMG_1723.JPG IMG_1723.JPG
+cProcessPCH /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/Assignment1_Prefix-gtywkuoasaehtigkkenqtinmlcpz/Assignment1_Prefix.pch.gch Assignment1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Objects-normal/i386/main.o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Objects-normal/i386/Assignment1AppDelegate.o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/Classes/Assignment1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Objects-normal/i386/TextColorController.o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/TextColorController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app/Assignment1 normal i386
+cGenerateDSYMFile /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app.dSYM /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app/Assignment1
+cTouch /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B527A3100000000000000EE
+t1263696433
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/usr/include/math.h
+c000000004748A10600000000000004B7
+t1195942150
+s1207
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/Assignment1_Prefix.pch
+c000000004B567B8900000000000000BF
+t1263958921
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/Classes/Assignment1AppDelegate.h
+c000000004B567B890000000000000151
+t1263958921
+s337
+i<UIKit/UIKit.h>
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/Classes/Assignment1AppDelegate.m
+c000000004B5B20B300000000000001F1
+t1264263347
+s497
+i"Assignment1AppDelegate.h"
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/IMG_0668.JPG
+c0000000042E3B3A60000000000215035
+t1122218918
+s2183221
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/IMG_1723.JPG
+c0000000044EF585C0000000000169C6C
+t1156536412
+s1481836
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/MainWindow.xib
+c000000004B5B78C20000000000005ACD
+t1264285890
+s23245
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/TextColorController.h
+c000000004B5B149F0000000000000174
+t1264260255
+s372
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/TextColorController.m
+c000000004B5B7A2D0000000000000363
+t1264286253
+s867
+i"TextColorController.h"
+i<math.h>
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Objects-normal/i386/Assignment1.LinkFileList
+c000000004B5B1334000000000000020D
+t1264259892
+s525
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Objects-normal/i386/Assignment1AppDelegate.o
+t1264263347
+s17312
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Objects-normal/i386/TextColorController.o
+t1264286306
+s12068
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Objects-normal/i386/main.o
+t1264047466
+s6024
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app
+t1264286306
+s238
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app.dSYM
+t1264286306
+s102
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app/Assignment1
+t1264286306
+s19232
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app/IMG_0668.JPG
+t2
+s0
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app/IMG_1723.JPG
+t1264047465
+s1481836
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app/Info.plist
+t1264047465
+s580
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app/MainWindow.nib
+t1264285893
+s3507
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app/PkgInfo
+t1264047465
+s8
+
+N/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/main.m
+c000000004B567B89000000000000016B
+t1263958921
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/Assignment1_Prefix-gtywkuoasaehtigkkenqtinmlcpz/Assignment1_Prefix.pch.gch
+t1264047466
+s13034960
+
+NAssignment1-Info.plist
+c000000004B567B89000000000000038D
+t1263958921
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies285979109#285979109#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Objects-normal/i386/Assignment1AppDelegate.o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/Classes/Assignment1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s285956147.724918
+e285956147.842807
+r1
+xCompileC
+xbuild/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Objects-normal/i386/Assignment1AppDelegate.o
+x/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/Classes/Assignment1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@113"Compile /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/Classes/Assignment1AppDelegate.m285956147#285956147#0(0"0(0#0#105"/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/Classes/Assignment1AppDelegate.m4300885448#2363"    cd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Assignment1-generated-files.hmap -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Assignment1-own-target-headers.hmap -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Assignment1-all-target-headers.hmap -iquote /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Assignment1-project-headers.hmap -F/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/include -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/DerivedSources/i386 -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/DerivedSources -include /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/Assignment1_Prefix-gtywkuoasaehtigkkenqtinmlcpz/Assignment1_Prefix.pch -c /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/Classes/Assignment1AppDelegate.m -o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Objects-normal/i386/Assignment1AppDelegate.o0#
+
+CCompileC build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Objects-normal/i386/TextColorController.o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/TextColorController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s285979106.016327
+e285979106.111188
+r1
+xCompileC
+xbuild/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Objects-normal/i386/TextColorController.o
+x/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/TextColorController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/TextColorController.m285979106#285979106#0(0"0(0#0#94"/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/TextColorController.m4300885448#2349"    cd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Assignment1-generated-files.hmap -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Assignment1-own-target-headers.hmap -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Assignment1-all-target-headers.hmap -iquote /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Assignment1-project-headers.hmap -F/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/include -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/DerivedSources/i386 -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/DerivedSources -include /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/Assignment1_Prefix-gtywkuoasaehtigkkenqtinmlcpz/Assignment1_Prefix.pch -c /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/TextColorController.m -o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Objects-normal/i386/TextColorController.o0#
+
+CCompileC build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Objects-normal/i386/main.o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s285740266.786386
+e285740266.841522
+r1
+xCompileC
+xbuild/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Objects-normal/i386/main.o
+x/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/main.m285740266#285740266#0(0"0(0#0#79"/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/main.m4300885448#2319"    cd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Assignment1-generated-files.hmap -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Assignment1-own-target-headers.hmap -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Assignment1-all-target-headers.hmap -iquote /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Assignment1-project-headers.hmap -F/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/include -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/DerivedSources/i386 -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/DerivedSources -include /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/Assignment1_Prefix-gtywkuoasaehtigkkenqtinmlcpz/Assignment1_Prefix.pch -c /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/main.m -o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/MainWindow.xib
+s285978693.724339
+e285978694.025082
+r1
+xCompileXIB
+x/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib285978693#285978694#0(0"0(0#0#87"/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/MainWindow.xib4300885448#588"    cd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app/MainWindow.nib /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/Assignment1.app/IMG_0668.JPG IMG_0668.JPG
+r0
+
+CCpResource build/Debug-iphonesimulator/Assignment1.app/IMG_1723.JPG IMG_1723.JPG
+s285740265.322610
+e285740265.438278
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Assignment1.app/IMG_1723.JPG
+xIMG_1723.JPG
+lSLF07#2@17"Copy IMG_1723.JPG285740265#285740265#0(0"0(0#0#85"/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/IMG_1723.JPG4300885448#562"    cd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/IMG_1723.JPG /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app0#
+
+CGenerateDSYMFile /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app.dSYM /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app/Assignment1
+s285979106.171150
+e285979106.184287
+r1
+xGenerateDSYMFile
+x/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app.dSYM
+x/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app/Assignment1
+lSLF07#2@121"GenerateDSYMFile build/Debug-iphonesimulator/Assignment1.app.dSYM build/Debug-iphonesimulator/Assignment1.app/Assignment1285979106#285979106#0(0"0(0#0#128"/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app/Assignment14300885448#497"    cd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app/Assignment1 -o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app.dSYM0#
+
+CLd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app/Assignment1 normal i386
+s285979106.111276
+e285979106.171027
+r1
+xLd
+x/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app/Assignment1
+xnormal
+xi386
+lSLF07#2@133"Link /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app/Assignment1285979106#285979106#0(0"0(0#0#0"4300885448#1054"    cd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator -F/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator -filelist /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Objects-normal/i386/Assignment1.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app/Assignment10#
+
+CProcessInfoPlistFile /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app/Info.plist Assignment1-Info.plist
+s285740265.302639
+e285740265.321847
+r1
+xProcessInfoPlistFile
+x/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app/Info.plist
+xAssignment1-Info.plist
+lSLF07#2@30"Process Assignment1-Info.plist285740265#285740265#0(0"0(0#0#95"/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/Assignment1-Info.plist32932993188560964#593"    cd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Assignment1-Info.plist -genpkginfo /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app/Info.plist0#
+
+CProcessPCH /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/Assignment1_Prefix-gtywkuoasaehtigkkenqtinmlcpz/Assignment1_Prefix.pch.gch Assignment1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s285740265.850022
+e285740266.786272
+r1
+xProcessPCH
+x/var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/Assignment1_Prefix-gtywkuoasaehtigkkenqtinmlcpz/Assignment1_Prefix.pch.gch
+xAssignment1_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile Assignment1_Prefix.pch285740265#285740266#0(0"0(0#0#95"/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/Assignment1_Prefix.pch4300885448#2173"    cd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Assignment1-generated-files.hmap -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Assignment1-own-target-headers.hmap -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Assignment1-all-target-headers.hmap -iquote /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/Assignment1-project-headers.hmap -F/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/include -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/DerivedSources/i386 -I/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Assignment1.build/Debug-iphonesimulator/Assignment1.build/DerivedSources -c /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/Assignment1_Prefix.pch -o /var/folders/AJ/AJxjc2n9EemAe82G9w+avGz+7io/-Caches-/com.apple.Xcode.801122029/SharedPrecompiledHeaders/Assignment1_Prefix-gtywkuoasaehtigkkenqtinmlcpz/Assignment1_Prefix.pch.gch0#
+
+CTouch /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app
+s285979106.184357
+e285979106.186460
+r1
+xTouch
+x/Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app
+lSLF07#2@122"Touch /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app285979106#285979106#0(0"0(0#0#0"4300885448#350"    cd /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jblackburn/dev/git/MacStuff/iphone/cs193p/Assignment1/Assignment1/build/Debug-iphonesimulator/Assignment1.app0#
+
